@@ -1,0 +1,4 @@
+08/04/2024 06:35:43 PM: INFO: test_FlightScheduleList: flightschedule: Launch the Chrome browser
+08/04/2024 06:36:33 PM: INFO: test_FlightScheduleList: flightschedule: Opening login page
+08/04/2024 06:36:33 PM: INFO: test_FlightScheduleList: flightschedule: Navigo Platfrom is successfully opened
+08/04/2024 06:36:33 PM: INFO: test_FlightScheduleList: flightschedule: Enter the Login credentials

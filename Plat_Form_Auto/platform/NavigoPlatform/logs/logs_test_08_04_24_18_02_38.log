@@ -1,0 +1,5 @@
+08/04/2024 06:02:43 PM: INFO: test_login: test_login: Launch the Chrome browser
+08/04/2024 06:02:43 PM: INFO: test_login: test_login: Opening login page
+08/04/2024 06:02:43 PM: INFO: test_login: test_login: Navigo Platfrom is successfully opened
+08/04/2024 06:02:43 PM: INFO: test_login: test_login: Enter the Login credentials
+08/04/2024 06:02:48 PM: INFO: test_login: test_login: Click the login button

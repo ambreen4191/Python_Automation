@@ -1,0 +1,8 @@
+08/04/2024 08:29:01 PM: INFO: test_AirRoutes: test_airroutes: Launch the Chrome browser
+08/04/2024 08:29:07 PM: INFO: test_AirRoutes: test_airroutes: Opening login page
+08/04/2024 08:29:07 PM: INFO: test_AirRoutes: test_airroutes: Navigo Platfrom is successfully opened
+08/04/2024 08:29:07 PM: INFO: test_AirRoutes: test_airroutes: Enter the Login credentials
+08/04/2024 08:29:34 PM: INFO: test_AirRoutes: test_airroutes: Click the login button
+08/04/2024 08:29:36 PM: INFO: test_AirRoutes: test_airroutes: click on Create New Route button
+08/04/2024 08:29:41 PM: INFO: test_AirRoutes: test_airroutes: clicked on Create New btn
+08/04/2024 08:29:41 PM: INFO: test_AirRoutes: test_airroutes: Enter all the details of Origin Airport

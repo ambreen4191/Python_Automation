@@ -1,0 +1,14 @@
+08/04/2024 08:09:07 PM: INFO: test_FreightPurchase: test_freightpurchase: Launch the Chrome browser
+08/04/2024 08:09:07 PM: INFO: test_FreightPurchase: test_freightpurchase: Opening login page
+08/04/2024 08:09:07 PM: INFO: test_FreightPurchase: test_freightpurchase: Navigo Platfrom is successfully opened
+08/04/2024 08:09:07 PM: INFO: test_FreightPurchase: test_freightpurchase: Enter the Login credentials
+08/04/2024 08:09:13 PM: INFO: test_FreightPurchase: test_freightpurchase: Click the login button
+08/04/2024 08:09:14 PM: INFO: test_FreightPurchase: test_freightpurchase: Click on the Freight Purchase Tab
+08/04/2024 08:09:18 PM: INFO: test_FreightPurchase: test_freightpurchase: Create the records if its not created
+08/04/2024 08:09:20 PM: INFO: test_FreightPurchase: test_freightpurchase: Verify the Flights are available
+08/04/2024 08:09:30 PM: INFO: test_FreightPurchase: test_freightpurchase: Select the shipment date
+08/04/2024 08:09:42 PM: INFO: test_login: test_login: Launch the Chrome browser
+08/04/2024 08:09:42 PM: INFO: test_login: test_login: Opening login page
+08/04/2024 08:09:42 PM: INFO: test_login: test_login: Navigo Platfrom is successfully opened
+08/04/2024 08:09:42 PM: INFO: test_login: test_login: Enter the Login credentials
+08/04/2024 08:09:55 PM: INFO: test_login: test_login: Click the login button

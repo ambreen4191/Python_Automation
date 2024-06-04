@@ -1,0 +1,6 @@
+08/04/2024 08:25:59 PM: INFO: test_AirRoutes: test_airroutes: Launch the Chrome browser
+08/04/2024 08:26:02 PM: INFO: test_AirRoutes: test_airroutes: Opening login page
+08/04/2024 08:26:02 PM: INFO: test_AirRoutes: test_airroutes: Navigo Platfrom is successfully opened
+08/04/2024 08:26:02 PM: INFO: test_AirRoutes: test_airroutes: Enter the Login credentials
+08/04/2024 08:26:10 PM: INFO: test_AirRoutes: test_airroutes: Click the login button
+08/04/2024 08:26:12 PM: INFO: test_AirRoutes: test_airroutes: click on Create New Route button

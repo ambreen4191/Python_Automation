@@ -1,0 +1,9 @@
+08/04/2024 07:22:55 PM: INFO: test_FlightScheduleList: flightschedule: Launch the Chrome browser
+08/04/2024 07:23:14 PM: INFO: test_FlightScheduleList: flightschedule: Opening login page
+08/04/2024 07:23:14 PM: INFO: test_FlightScheduleList: flightschedule: Navigo Platfrom is successfully opened
+08/04/2024 07:23:14 PM: INFO: test_FlightScheduleList: flightschedule: Enter the Login credentials
+08/04/2024 07:23:26 PM: INFO: test_FlightScheduleList: flightschedule: Click the login button
+08/04/2024 07:23:29 PM: INFO: test_FlightScheduleList: flightschedule: Click on Tabs Flight Schedule List
+08/04/2024 07:23:32 PM: INFO: test_FlightScheduleList: flightschedule: Clicked on Flight Schedule List Tab
+08/04/2024 07:23:32 PM: INFO: test_FlightScheduleList: flightschedule: Create the New Flight Schedule
+08/04/2024 07:23:34 PM: INFO: test_FlightScheduleList: flightschedule: Clicked on New Flight Schedule button

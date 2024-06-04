@@ -1,0 +1,6 @@
+08/04/2024 06:34:57 PM: INFO: test_CreateAircraft: createaircraft: Launch the Chrome browser
+08/04/2024 06:35:03 PM: INFO: test_CreateAircraft: createaircraft: Opening login page
+08/04/2024 06:35:03 PM: INFO: test_CreateAircraft: createaircraft: Navigo Platfrom is successfully opened
+08/04/2024 06:35:03 PM: INFO: test_CreateAircraft: createaircraft: Enter the Login credentials
+08/04/2024 06:35:10 PM: INFO: test_CreateAircraft: createaircraft: Click the login button
+08/04/2024 06:35:30 PM: INFO: test_CreateAircraft: createaircraft: Click on Tabs Aircraft and Available Aircraft

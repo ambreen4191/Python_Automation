@@ -1,0 +1,5 @@
+[32mINFO    [0m 2024-04-08 18:29:18.797999:test_login.py:13 Launch the Chrome browser
+[32mINFO    [0m 2024-04-08 18:29:18.797999:test_login.py:15 Opening login page
+[32mINFO    [0m 2024-04-08 18:29:18.797999:test_login.py:18 Navigo Platfrom is successfully opened
+[32mINFO    [0m 2024-04-08 18:29:18.797999:test_login.py:21 Enter the Login credentials
+[32mINFO    [0m 2024-04-08 18:29:18.797999:test_login.py:24 Click the login button

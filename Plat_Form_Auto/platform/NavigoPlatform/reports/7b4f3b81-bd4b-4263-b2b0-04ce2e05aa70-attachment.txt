@@ -1,0 +1,6 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:139 The chromedriver version (122.0.6261.94) detected in PATH at C:\Users\codea\AppData\Local\Programs\Python\Python311\Scripts\chromedriver.exe might not be compatible with the detected chrome version (123.0.6312.106); currently, chromedriver 123.0.6312.105 is recommended for chrome 123.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m 2024-04-08 18:02:38.904267:test_login.py:13 Launch the Chrome browser
+[32mINFO    [0m 2024-04-08 18:02:38.904267:test_login.py:15 Opening login page
+[32mINFO    [0m 2024-04-08 18:02:38.904267:test_login.py:18 Navigo Platfrom is successfully opened
+[32mINFO    [0m 2024-04-08 18:02:38.904267:test_login.py:21 Enter the Login credentials
+[32mINFO    [0m 2024-04-08 18:02:38.904267:test_login.py:24 Click the login button
